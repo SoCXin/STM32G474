@@ -41,19 +41,18 @@ README*
 *.odg
 *.csv
 *.xml
-*.pdf
 *.xlsx
 *.zip
 *.xcf
 # *.png
-*.jpg
+# *.jpg
 *.rst
 *.srec
 *_sc*
 *cm23*
 *cm33*
 *cm7*
-*cm4*
+# *cm4*
 # *cm3*
 *cm1*
 *cm0*
@@ -64,17 +63,16 @@ README*
 doc
 *dox
 tests
-# docs
 # mk
 *.md
 *.so
 *.dcm
-*32g*
+# *32g*
 *32h*
 *32f7*
 *32f4*
 *32f3*
-# *32f2*
+*32f2*
 *32f1*
 *32f0*
 *32l*
