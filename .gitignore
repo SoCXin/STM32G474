@@ -19,6 +19,7 @@ LICENSE*
 HACKING*
 Doxyfile
 README*
+Drivers
 *.swp
 *.lck
 *.log
