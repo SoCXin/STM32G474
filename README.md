@@ -30,8 +30,11 @@
 
 [STM32G474](https://www.st.com/zh/microcontrollers-microprocessors/stm32f2x7.html) 可应用于高速高精度的AD场景
 
-* 典型开源板: NUCLEO-G474RE
-
 [![sites](docs/diff.png)](https://www.st.com/content/st_com/zh/products/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus/stm32-mainstream-mcus/stm32g4-series/stm32g4x4.html)
+
+#### 相关开发板 (NUCLEO-G474RE)
+
+[![sites](docs/B.jpg)](https://detail.tmall.com/item.htm?spm=a230r.1.14.3.22c4235cqh3nCy&id=610087556700&ns=1&abbucket=7)
+
 
 ### [探索芯世界 www.SoC.xin](http://www.SoC.Xin)
