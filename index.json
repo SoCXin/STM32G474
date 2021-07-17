@@ -2,13 +2,13 @@
     "type":"MCU",
     "name":"STM32G474",
     "title": "ST STM32G474 MCU",
-    "description":"ST Cortex-M3 MCU",
+    "description":"ST Cortex-M4 MCU",
     "Core": {
         "num": 1,
-        "type":"Cortex-M3",
-        "Freq":120,
-        "DMIPS": 150,
-        "CoreMark": 398
+        "type":"Cortex-M4",
+        "Freq":170,
+        "DMIPS": 213,
+        "CoreMark": 550
     },
     "manufacturer": {
         "vendor":"ST",
@@ -20,7 +20,7 @@
     },
     "version":"1.0.0",
     "series":["STM32G474","STM32F217","STM32F215","STM32F205"],
-    "package":["LQFP176","LQFP144","LQFP100","LQFP64","BGA176","WLCSP66"],
+    "package":["LQFP128","LQFP100","LQFP80","LQFP64","LQFP48"],
     "peripheral": ["ADC","DAC","USB","OTG","CAN","SDIO","USART","SPI","IIC"],
     "keywords": [
         "dev-platform",
