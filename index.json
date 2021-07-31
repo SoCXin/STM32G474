@@ -28,7 +28,7 @@
         "Cortex-M",
         "STMicroelectronics",
         "STM32",
-        "MAC10/100","DAC","SDIO","CAN","I2C","RTC","SPI",
+        "ADC","DAC","HRTIM","CAN","I2C","RTC","SPI",
         "3.6V","1.8V"
     ]
 }
