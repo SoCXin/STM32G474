@@ -19,16 +19,19 @@
 * 6个具有可编程增益的运算放大器
 * 最多3个CAN-FD
 * USB Type-C接口以及物理层（PHY）
+* USB 2.0 FS
+* AES-256硬件
 
 ### [资源收录](https://github.com/SoCXin)
 
 * [参考资源](src/)
-* [参考文档](docs/)
-* [参考工程](project/)
+* [相关文档](docs/)
+* [典型应用](project/)
+* [入门教程](https://zhuanlan.zhihu.com/p/100803236)
 
 ### [选型建议](https://github.com/SoCXin)
 
-[STM32G4](https://www.st.com/zh/microcontrollers-microprocessors/stm32g4-series.html)系列用于[STM32F3]https://www.st.com/zh/microcontrollers-microprocessors/stm32f3-series.html)系列的升级替换，其中的高配版本[STM32G474](https://github.com/SoCXin/STM32G474)相较拥有更多DAC和定时器，特点是拥有HRTIM
+[STM32G4](https://www.st.com/zh/microcontrollers-microprocessors/stm32g4-series.html)系列用于[STM32F3](https://www.st.com/zh/microcontrollers-microprocessors/stm32f3-series.html)系列的升级替换，其中的高配版本[STM32G474](https://github.com/SoCXin/STM32G474)相较拥有更多DAC和定时器，该型特点是拥有HRTIM
 
 [![sites](docs/diff.png)](https://www.st.com/content/st_com/zh/products/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus/stm32-mainstream-mcus/stm32g4-series/stm32g4x4.html)
 
@@ -40,7 +43,7 @@
 * STM32G474V:LQFP100 (14x14x1.4)
 * STM32G474Q:LQFP128 (14x14x1.4)
 
-### 相关开发板 (NUCLEO-G474RE)
+### 验证开发板 (NUCLEO-G474RE)
 
 [![sites](docs/B.jpg)](https://detail.tmall.com/item.htm?spm=a230r.1.14.3.22c4235cqh3nCy&id=610087556700&ns=1&abbucket=7)
 
@@ -48,5 +51,6 @@
 
 * [Arduino_Core_STM32](https://github.com/stm32duino/Arduino_Core_STM32)
 * [STM32CubeG4](https://github.com/STMicroelectronics/STM32CubeG4)
+* [开源硬件:基于STM32G474的电源主控板设计](https://oshwhub.com/YangYw-311/ji-yu-STM32G474de-dian-yuan-zhu-)
 
 ### [探索芯世界 www.SoC.xin](http://www.SoC.Xin)

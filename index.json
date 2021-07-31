@@ -12,14 +12,14 @@
     },
     "manufacturer": {
         "vendor":"ST",
-        "homepage":"https://www.st.com/zh/microcontrollers-microprocessors/stm32f2x7.html"
+        "homepage":"https://www.st.com/zh/microcontrollers-microprocessors/stm32g4-series.html"
     },
     "repository": {
         "type": "git",
         "url": "https://github.com/SoCXin/STM32G474.git"
     },
     "version":"1.0.0",
-    "series":["STM32G474","STM32F217","STM32F215","STM32F205"],
+    "series":["STM32G474","STM32G484","STM32G473","STM32G483"],
     "package":["LQFP128","LQFP100","LQFP80","LQFP64","LQFP48"],
     "peripheral": ["ADC","DAC","USB","OTG","CAN","SDIO","USART","SPI","IIC"],
     "keywords": [
