@@ -2,7 +2,7 @@
 
 [![sites](http://182.61.61.133/link/resources/SoC.png)](http://www.SoC.Xin)
 
-[![Build Status](https://github.com/SoCXin/STM32G474/workflows/CI/badge.svg)](https://github.com/SoCXin/STM32G474/actions/workflows/CI.yml)
+[![Build Status](https://github.com/SoCXin/STM32G474/workflows/check/badge.svg)](https://github.com/SoCXin/STM32G474/actions/workflows/check.yml)
 [![Build Status](https://github.com/SoCXin/STM32G474/workflows/build/badge.svg)](https://github.com/SoCXin/STM32G474/actions/workflows/build.yml)
 
 * [ST](https://www.st.com/zh/): [Cortex-M4](https://github.com/SoCXin/Cortex)
