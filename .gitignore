@@ -12,14 +12,13 @@ Debug
 *#
 Change*
 CHANGE*
-README*
 COPY*
 *CONTRIBU*
 LICENSE*
 HACKING*
 Doxyfile
 README*
-# Drivers
+Drivers
 *.launch
 *.cfg
 *.swp
@@ -51,12 +50,12 @@ README*
 # *.jpg
 *.rst
 *.srec
-*_sc*
+# *_sc*
 *cm23*
 *cm33*
 *cm7*
 # *cm4*
-# *cm3*
+*cm3*
 *cm1*
 *cm0*
 *.uvgu*
