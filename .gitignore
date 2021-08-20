@@ -19,7 +19,7 @@ LICENSE*
 HACKING*
 Doxyfile
 README*
-Drivers
+# Drivers
 *.launch
 *.cfg
 *.swp
