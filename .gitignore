@@ -21,6 +21,7 @@ Doxyfile
 README*
 Drivers
 *.launch
+*.cfg
 *.swp
 *.lck
 *.log
