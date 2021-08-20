@@ -66,7 +66,7 @@ doc
 *dox
 tests
 # mk
-*.md
+# *.md
 *.so
 *.dcm
 # *32g*
