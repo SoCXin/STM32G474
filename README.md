@@ -1,12 +1,9 @@
-﻿# [STM32G474](https://github.com/SoCXin/STM32G474)
+﻿# [STM32G474](https://doc.soc.xin/STM32G474)
 
-[![sites](http://182.61.61.133/link/resources/SoC.png)](http://www.SoC.Xin)
-
-[![Build Status](https://github.com/SoCXin/STM32G474/workflows/check/badge.svg)](https://github.com/SoCXin/STM32G474/actions/workflows/check.yml)
 [![Build Status](https://github.com/SoCXin/STM32G474/workflows/build/badge.svg)](https://github.com/SoCXin/STM32G474/actions/workflows/build.yml)
 
 * [ST](https://www.st.com/zh/): [Cortex-M4](https://github.com/SoCXin/Cortex)
-* [L5R5](https://github.com/SoCXin/Level): 170 MHz (213DMIPS,550CoreMark)
+* [L3R4](https://github.com/SoCXin/Level): 170 MHz (213DMIPS,550CoreMark)
 
 ## [简介](https://github.com/SoCXin/STM32G474/wiki)
 
@@ -30,13 +27,13 @@
 * [参考资源](src/)
 * [相关文档](docs/)
 * [典型应用](project/)
-* [入门教程](https://docs.soc.xin/STM32G474)
 
 ### [选型建议](https://github.com/SoCXin)
 
 [STM32G4](https://www.st.com/zh/microcontrollers-microprocessors/stm32g4-series.html)系列用于[STM32F3](https://www.st.com/zh/microcontrollers-microprocessors/stm32f3-series.html)系列的升级替换，其中的高配版本[STM32G474](https://github.com/SoCXin/STM32G474)相较拥有更多DAC和定时器，该型特点是拥有HRTIM
 
-[![sites](docs/diff.png)](https://www.st.com/content/st_com/zh/products/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus/stm32-mainstream-mcus/stm32g4-series/stm32g4x4.html)
+[STM32G431 ￥9.05 (UFQFPN-48)](https://item.szlcsc.com/549634.html) 相对 [STM32G474](https://item.szlcsc.com/549641.html) 在外设数量上更少，性价比更高。
+
 
 #### 封装规格
 
@@ -46,14 +43,8 @@
 * STM32G474V:LQFP100 (14x14x1.4)
 * STM32G474Q:LQFP128 (14x14x1.4)
 
-### 验证开发板 (NUCLEO-G474RE)
+#### 开源方案
 
-[![sites](docs/B.jpg)](https://detail.tmall.com/item.htm?spm=a230r.1.14.3.22c4235cqh3nCy&id=610087556700&ns=1&abbucket=7)
-
-#### 高可用度开源项目
-
-* [Arduino_Core_STM32](https://github.com/stm32duino/Arduino_Core_STM32)
 * [STM32CubeG4](https://github.com/STMicroelectronics/STM32CubeG4)
-* [开源硬件:基于STM32G474的电源主控板设计](https://oshwhub.com/YangYw-311/ji-yu-STM32G474de-dian-yuan-zhu-)
-
-### [探索芯世界 www.SoC.xin](http://www.SoC.Xin)
+* [Arduino_Core_STM32](https://github.com/stm32duino/Arduino_Core_STM32)
+* [基于STM32G474的电源主控板设计](https://oshwhub.com/YangYw-311/ji-yu-STM32G474de-dian-yuan-zhu-)
